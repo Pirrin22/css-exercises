@@ -1,0 +1,19 @@
+.alert-text {
+    background-color: red;
+    background-color: lightpink;
+    font-family: verdana, DejaVu sans-serif ;
+}
+.cambio-fuente {
+    font-size: 24px;
+}
+
+#title {
+    color: blue;
+    font-size: 36px;
+}
+
+#other {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
